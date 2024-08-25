@@ -1,2 +1,2 @@
 # flappy-bird
-flappy bird game made using python
+game made using python
